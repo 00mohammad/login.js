@@ -1,2 +1,2 @@
 # login.js
-# Simple Login Example in JavaScript  این پروژه یک مثال ساده برای بررسی نام کاربری با جاوااسکریپت است.   کاربران موجود: amin, amir, ali  ## نحوه اجرا 1. فایل `login.js` را در مرورگر اجرا کنید (با کنسول یا اضافه کردن به HTML).   2. نام کاربری خود را وارد کنید و نتیجه را مشاهده کنید.
+# Simple Login Example in JavaScript  This project is a simple example of checking username with JavaScript. Existing users: amin, amir, ali ## How to run 1. Run the `login.js` file in the browser (via console or add to HTML). 2. Enter your username and see the result.
